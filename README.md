@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS mobile development
 - 🌱 I’m currently practicing and learning Swift:
   - [Calculator App](https://github.com/LidiaGr/Swift_piscine/tree/main/day00)
-  - [Contacts App](https://github.com/LidiaGr/Swift_piscine/tree/main/day02) (kind of)
+  - [Notes App](https://github.com/LidiaGr/Swift_piscine/tree/main/day02) (kind of)
   - [Photos App](https://github.com/LidiaGr/Swift_piscine/tree/main/day03)
 
 <!--- - Swift: [Pokedex](https://github.com/LidiaGr/Pokedex)
