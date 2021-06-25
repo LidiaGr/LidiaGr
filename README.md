@@ -4,6 +4,7 @@
   - [Calculator App](https://github.com/LidiaGr/Swift_piscine/tree/main/day00)
   - [Notes App](https://github.com/LidiaGr/Swift_piscine/tree/main/day02)
   - [Photos App](https://github.com/LidiaGr/Swift_piscine/tree/main/day03)
+  - [API App](https://github.com/LidiaGr/Swift_piscine/tree/main/day04)
 
 <!--- - Swift: [Pokedex](https://github.com/LidiaGr/Pokedex)
  - C++: [Webserver project](https://github.com/LidiaGr/Webserver)
