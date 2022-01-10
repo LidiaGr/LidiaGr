@@ -1,11 +1,7 @@
 - 👋 Hi, I’m Lidia - 21 School Student
 - 👀 I’m interested in iOS mobile development
 - 🌱 I’m currently practicing and learning Swift:
-  - [Calculator App](https://github.com/LidiaGr/Swift_piscine/tree/main/day00)
-  - [Notes App](https://github.com/LidiaGr/Swift_piscine/tree/main/day02)
-  - [Photos App](https://github.com/LidiaGr/Swift_piscine/tree/main/day03)
-  - [API App](https://github.com/LidiaGr/Swift_piscine/tree/main/day04)
-  - [Map App](https://github.com/LidiaGr/Swift_piscine/tree/main/day05)
+  - [Swifty_companion App](https://github.com/LidiaGr/Swifty_companion)
 
 <!--- - Swift: [Pokedex](https://github.com/LidiaGr/Pokedex)
  - C++: [Webserver project](https://github.com/LidiaGr/Webserver)
