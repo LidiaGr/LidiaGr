@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lidia - 21 School Student
 - 👀 I’m interested in iOS mobile development
 - 🌱 I’m currently practicing and learning Swift:
-  - [Swifty_companion App](https://github.com/LidiaGr/Swifty_companion)
+  - [Swifty_companion App / Intra 42 Mobile](https://github.com/LidiaGr/Swifty_companion)
 
 <!--- - Swift: [Pokedex](https://github.com/LidiaGr/Pokedex)
  - C++: [Webserver project](https://github.com/LidiaGr/Webserver)
