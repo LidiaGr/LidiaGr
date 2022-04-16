@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Lidia - 21 School Student
+- 👋 Hi, I’m Lidia
 - 👩‍💻 I’m iOS Developer in [Vprok.ru](https://apps.apple.com/ru/app/перекрёсток-впрок-доставка/id1510812169)
+- 👩‍🎓 and [21 School](https://42.fr/en/network-42/) Student
 - 🌱 I’m currently practicing and learning Swift:
   - [Swifty_companion App / Intra 42 Mobile](https://github.com/LidiaGr/Swifty_companion)
   - [RIBs Architectural framework + RxSwift for VIP | Example](https://github.com/LidiaGr/StatefulScreenExample)
