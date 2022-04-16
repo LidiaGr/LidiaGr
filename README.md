@@ -2,6 +2,7 @@
 - 👀 I’m interested in iOS mobile development
 - 🌱 I’m currently practicing and learning Swift:
   - [Swifty_companion App / Intra 42 Mobile](https://github.com/LidiaGr/Swifty_companion)
+  - [RIBs Architectural framework + RxSwift for VIP | Example](https://github.com/LidiaGr/StatefulScreenExample)
 
 <!--- - Swift: [Pokedex](https://github.com/LidiaGr/Pokedex)
  - C++: [Webserver project](https://github.com/LidiaGr/Webserver)
